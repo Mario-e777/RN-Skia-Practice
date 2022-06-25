@@ -489,7 +489,7 @@
 				DEVELOPMENT_TEAM = 7JBRQ4T8VM;
 				ENABLE_BITCODE = NO;
 				INFOPLIST_FILE = skiaPractice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -516,7 +516,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = 7JBRQ4T8VM;
 				INFOPLIST_FILE = skiaPractice/Info.plist;
-				IPHONEOS_DEPLOYMENT_TARGET = 15.4;
+				IPHONEOS_DEPLOYMENT_TARGET = 15.5;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
